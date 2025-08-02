@@ -18,5 +18,6 @@ git clone https://github.com/zxcWeeJee/pgu_parser.git
 4. Бот готов к использованию!
 
 # Мой бот в телеграм:
-https://t.me/pgu_parser_bot
 ![Бот в телеграм](pgu.jpg)
+
+https://t.me/pgu_parser_bot
