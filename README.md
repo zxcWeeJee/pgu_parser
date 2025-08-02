@@ -19,3 +19,4 @@ git clone https://github.com/zxcWeeJee/pgu_parser.git
 
 # Мой бот в телеграм:
 https://t.me/pgu_parser_bot
+![[pgu.jpg]]
