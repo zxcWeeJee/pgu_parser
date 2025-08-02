@@ -11,7 +11,7 @@
 ## Установка
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш_username/название_репозитория.git
+git clone https://github.com/zxcWeeJee/pgu_parser.git
 ```
 2. Установите зависимости
 3. Измените файл .env на свой токен в @BotFather (tg)
